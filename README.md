@@ -10,4 +10,3 @@
 <a href="https://www.codechef.com/users/parthoshaon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="rickzinho_ecr" height="20" width="20" /></a>
 </p>
 <br>
-<br>
